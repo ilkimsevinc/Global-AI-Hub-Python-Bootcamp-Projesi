@@ -1,5 +1,6 @@
 # Global AI Hub Python Bootcamp Projesi
 Global AI Hub Python Bootcamp sürecinde yaptığım Pizza Sipariş Sistemi
+
 Project Overview
 
 Pizzacı Dükkanı mı açmak istiyorsunuz? O zaman bu proje hayalinizdeki proje olabilir. Proje, kullanıcıların kendi pizzalarını tasarlamalarını ve ödeme yaptıktan sonra kullanıcıyı veri tabanına eklemelerini hedefliyor. Peki bu projede ne tür görevlerimiz var?
